@@ -1,4 +1,4 @@
-package createUser;
+package createuser;
 
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.common.mapper.TypeRef;

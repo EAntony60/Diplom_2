@@ -1,4 +1,4 @@
-package changeInfoUser;
+package changeinfouser;
 
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.response.ValidatableResponse;

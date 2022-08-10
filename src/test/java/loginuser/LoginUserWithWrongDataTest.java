@@ -1,4 +1,4 @@
-package loginUser;
+package loginuser;
 
 import io.qameta.allure.junit4.DisplayName;
 import io.restassured.common.mapper.TypeRef;
